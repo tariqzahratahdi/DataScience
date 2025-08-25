@@ -1,0 +1,100 @@
+sofifa_id,short_name,long_name,age,dob,height_cm,weight_kg,nationality,club,overall,potential,value_eur,wage_eur
+158023,L. Messi,Lionel Andrés Messi Cuccittini,32,1987-06-24,170,72,Argentina,FC Barcelona,94,94,95500000,565000
+20801,Cristiano Ronaldo,Cristiano Ronaldo dos Santos Aveiro,34,1985-02-05,187,83,Portugal,Juventus,93,93,58500000,405000
+190871,Neymar Jr,Neymar da Silva Santos Junior,27,1992-02-05,175,68,Brazil,Paris Saint-Germain,92,92,105500000,290000
+200389,J. Oblak,Jan Oblak,26,1993-01-07,188,87,Slovenia,Atlético Madrid,91,93,77500000,125000
+183277,E. Hazard,Eden Hazard,28,1991-01-07,175,74,Belgium,Real Madrid,91,91,90000000,470000
+192985,K. De Bruyne,Kevin De Bruyne,28,1991-06-28,181,70,Belgium,Manchester City,91,91,90000000,370000
+192448,M. ter Stegen,Marc-André ter Stegen,27,1992-04-30,187,85,Germany,FC Barcelona,90,93,67500000,250000
+203376,V. van Dijk,Virgil van Dijk,27,1991-07-08,193,92,Netherlands,Liverpool,90,91,78000000,200000
+177003,L. Modrić,Luka Modrić,33,1985-09-09,172,66,Croatia,Real Madrid,90,90,45000000,340000
+209331,M. Salah,Mohamed  Salah Ghaly,27,1992-06-15,175,71,Egypt,Liverpool,90,90,80500000,240000
+231747,K. Mbappé,Kylian Mbappé,20,1998-12-20,178,73,France,Paris Saint-Germain,89,95,93500000,155000
+201024,K. Koulibaly,Kalidou Koulibaly,28,1991-06-20,187,89,Senegal,Napoli,89,91,67500000,150000
+202126,H. Kane,Harry Kane,25,1993-07-28,188,89,England,Tottenham Hotspur,89,91,83000000,220000
+212831,Alisson,Alisson Ramses Becker,26,1992-10-02,191,91,Brazil,Liverpool,89,91,58000000,155000
+193080,De Gea,David De Gea Quintana,28,1990-11-07,192,82,Spain,Manchester United,89,90,56000000,205000
+215914,N. Kanté,N'Golo Kanté,28,1991-03-29,168,72,France,Chelsea,89,90,66000000,235000
+138956,G. Chiellini,Giorgio Chiellini,34,1984-08-14,187,85,Italy,Juventus,89,89,24500000,215000
+153079,S. Agüero,Sergio Leonel Agüero del Castillo,31,1988-06-02,173,70,Argentina,Manchester City,89,89,60000000,300000
+155862,Sergio Ramos,Sergio Ramos García,33,1986-03-30,184,82,Spain,Real Madrid,89,89,31500000,300000
+176580,L. Suárez,Luis Alberto Suárez Díaz,32,1987-01-24,182,86,Uruguay,FC Barcelona,89,89,53000000,355000
+188545,R. Lewandowski,Robert Lewandowski,30,1988-08-21,184,80,Poland,FC Bayern München,89,89,64500000,235000
+189511,Sergio Busquets,Sergio Busquets i Burgos,30,1988-07-16,189,76,Spain,FC Barcelona,89,89,55000000,300000
+194765,A. Griezmann,Antoine Griezmann,28,1991-03-21,176,73,France,FC Barcelona,89,89,69000000,370000
+211110,P. Dybala,Paulo Bruno Exequiel Dybala,25,1993-11-15,177,75,Argentina,Juventus,88,92,76500000,215000
+195864,P. Pogba,Paul Pogba,26,1993-03-15,191,84,France,Manchester United,88,91,72500000,250000
+210257,Ederson,Ederson Santana de Moraes,25,1993-08-17,188,86,Brazil,Manchester City,88,91,54500000,185000
+202652,R. Sterling,Raheem Sterling,24,1994-12-08,170,69,England,Manchester City,88,90,73000000,255000
+190460,C. Eriksen,Christian  Dannemann Eriksen,27,1992-02-14,181,76,Denmark,Tottenham Hotspur,88,89,68000000,205000
+192119,T. Courtois,Thibaut Courtois,27,1992-05-11,199,96,Belgium,Real Madrid,88,89,48000000,235000
+152729,Piqué,Gerard Piqué Bernabéu,32,1987-02-02,194,85,Spain,FC Barcelona,88,88,38000000,285000
+162835,S. Handanovič,Samir Handanovič,34,1984-07-14,193,92,Slovenia,Inter,88,88,26000000,110000
+167495,M. Neuer,Manuel Neuer,33,1986-03-27,193,92,Germany,FC Bayern München,88,88,32000000,155000
+167948,H. Lloris,Hugo Lloris,32,1986-12-26,188,82,France,Tottenham Hotspur,88,88,36000000,150000
+168542,David Silva,David Josué Jiménez Silva,33,1986-01-08,173,67,Spain,Manchester City,88,88,36000000,265000
+179813,E. Cavani,Edinson Roberto Cavani Gómez,32,1987-02-14,185,77,Uruguay,Paris Saint-Germain,88,88,47000000,195000
+182493,D. Godín,Diego Godín,33,1986-02-16,187,78,Uruguay,Inter,88,88,28000000,135000
+182521,T. Kroos,Toni Kroos,29,1990-01-04,183,76,Germany,Real Madrid,88,88,57000000,330000
+188350,M. Reus,Marco Reus,30,1989-05-31,180,71,Germany,Borussia Dortmund,88,88,56000000,170000
+188567,P. Aubameyang,Pierre-Emerick Aubameyang,30,1989-06-18,187,80,Gabon,Arsenal,88,88,57000000,205000
+208722,S. Mané,Sadio Mané,27,1992-04-10,175,69,Senegal,Liverpool,88,88,62000000,220000
+212218,A. Laporte,Aymeric  Laporte,25,1994-05-27,189,85,France,Manchester City,87,90,56500000,195000
+218667,Bernardo Silva,Bernardo Mota Veiga de Carvalho e Silva,24,1994-08-10,173,64,Portugal,Manchester City,87,90,64000000,210000
+200145,Casemiro,Carlos Henrique Venancio Casimiro,27,1992-02-23,185,84,Brazil,Real Madrid,87,89,53500000,240000
+200104,H. Son,손흥민 孙兴慜,26,1992-07-08,183,78,Korea Republic,Tottenham Hotspur,87,88,60000000,185000
+135507,Fernandinho,Fernando Luiz Rosa,34,1985-05-04,179,67,Brazil,Manchester City,87,87,19500000,200000
+164240,Thiago Silva,Thiago Emiliano da Silva,34,1984-09-22,183,82,Brazil,Paris Saint-Germain,87,87,18500000,135000
+165153,K. Benzema,Karim Benzema,31,1987-12-19,185,81,France,Real Madrid,87,87,45000000,285000
+172871,J. Vertonghen,Jan Vertonghen,32,1987-04-24,189,86,Belgium,Tottenham Hotspur,87,87,32500000,155000
+175943,D. Mertens,Dries Mertens,32,1987-05-06,169,61,Belgium,Napoli,87,87,40000000,135000
+178603,M. Hummels,Mats  Hummels,30,1988-12-16,191,94,Germany,Borussia Dortmund,87,87,41000000,130000
+184087,T. Alderweireld,Toby Alderweireld,30,1989-03-02,186,81,Belgium,Tottenham Hotspur,87,87,41000000,155000
+189332,Jordi Alba,Jordi Alba Ramos,30,1989-03-21,170,68,Spain,FC Barcelona,87,87,40000000,240000
+189509,Thiago,Thiago Alcântara do Nascimento,28,1991-04-11,174,70,Spain,FC Bayern München,87,87,50000000,180000
+193041,K. Navas,Keylor Navas,32,1986-12-15,185,80,Costa Rica,Real Madrid,87,87,30500000,195000
+198219,L. Insigne,Lorenzo Insigne,28,1991-06-04,163,59,Italy,Napoli,87,87,52000000,140000
+222492,L. Sané,Leroy Sané,23,1996-01-11,183,75,Germany,Manchester City,86,92,61000000,195000
+207865,Marquinhos,Marcos  Aoás Corrêa,25,1994-05-14,183,75,Brazil,Paris Saint-Germain,86,90,51500000,120000
+232363,M. Škriniar,Milan Škriniar,24,1995-02-11,187,80,Slovakia,Inter,86,90,52000000,89000
+199556,M. Verratti,Marco Verratti,26,1992-11-05,165,60,Italy,Paris Saint-Germain,86,89,54500000,140000
+205600,S. Umtiti,Samuel Umtiti,25,1993-11-14,182,75,France,FC Barcelona,86,89,50000000,210000
+186153,W. Szczęsny,Wojciech  Szczęsny,29,1990-04-18,195,90,Poland,Juventus,86,88,37500000,135000
+212622,J. Kimmich,Joshua Kimmich,24,1995-02-08,176,73,Germany,FC Bayern München,86,88,48000000,125000
+197781,Isco,Francisco Román Alarcón Suárez,27,1992-04-21,176,79,Spain,Real Madrid,86,87,51000000,245000
+201942,Roberto Firmino,Roberto Firmino Barbosa de Oliveira,27,1991-10-02,181,76,Brazil,Liverpool,86,87,52000000,170000
+168651,I. Rakitić,Ivan Rakitić,31,1988-03-10,184,78,Croatia,FC Barcelona,86,86,38000000,245000
+180206,M. Pjanić,Miralem Pjanić,29,1990-04-02,178,72,Bosnia Herzegovina,Juventus,86,86,42500000,180000
+183898,A. Di María,Ángel Fabián Di María Hernández,31,1988-02-14,180,69,Argentina,Paris Saint-Germain,86,86,39000000,150000
+184344,L. Bonucci,Leonardo Bonucci,32,1987-05-01,190,85,Italy,Juventus,86,86,28500000,160000
+189242,Coutinho,Philippe Coutinho Correia,27,1992-06-12,172,68,Brazil,FC Bayern München,86,86,46500000,175000
+189513,Parejo,Daniel Parejo Muñoz,30,1989-04-16,182,74,Spain,Valencia CF,86,86,41000000,69000
+189596,T. Müller,Thomas Müller,29,1989-09-13,186,75,Germany,FC Bayern München,86,86,43500000,170000
+192387,C. Immobile,Ciro Immobile,29,1990-02-20,185,85,Italy,Lazio,86,86,44500000,105000
+193301,A. Lacazette,Alexandre Lacazette,28,1991-05-28,175,73,France,Arsenal,86,86,46000000,165000
+235243,M. de Ligt,Matthijs de Ligt,19,1999-08-12,189,89,Netherlands,Juventus,85,93,50000000,76000
+230621,G. Donnarumma,Gianluigi Donnarumma,20,1999-02-25,196,90,Italy,Milan,85,92,41500000,34000
+228702,F. de Jong,Frenkie de Jong,22,1997-05-12,180,74,Netherlands,FC Barcelona,85,91,52000000,195000
+201535,R. Varane,Raphaël Varane,26,1993-04-25,191,81,France,Real Madrid,85,90,45000000,205000
+212190,N. Süle,Niklas Süle,23,1995-09-03,195,97,Germany,FC Bayern München,85,90,46500000,115000
+223848,S. Milinković-Savić,Sergej Milinković-Savić,24,1995-02-27,191,76,Serbia,Lazio,85,90,50500000,73000
+231866,Rodri,Rodrigo Hernández Cascante,23,1996-06-22,191,82,Spain,Manchester City,85,90,47000000,150000
+208421,Saúl,Saúl Ñíguez Esclápez,24,1994-11-21,184,77,Spain,Atlético Madrid,85,89,49500000,77000
+209499,Fabinho,Fábio Henrique Tavares,25,1993-10-23,188,78,Brazil,Liverpool,85,89,45000000,125000
+216267,A. Robertson,Andrew Robertson,25,1994-03-11,178,64,Scotland,Liverpool,85,89,43500000,125000
+216460,J. Giménez,José María Giménez de Vargas,24,1995-01-20,185,80,Uruguay,Atlético Madrid,85,89,45000000,69000
+220440,C. Lenglet,Clément Lenglet,24,1995-06-17,186,81,France,FC Barcelona,85,89,45000000,175000
+212198,Bruno Fernandes,Bruno Miguel Borges Fernandes,24,1994-09-08,179,69,Portugal,Sporting CP,85,88,49000000,24000
+199482,A. Lopes,Anthony Lopes,28,1990-10-01,184,81,Portugal,Olympique Lyonnais,85,87,33500000,88000
+185122,P. Gulácsi,Péter Gulácsi,29,1990-05-06,192,86,Hungary,RB Leipzig,85,86,31000000,69000
+189117,R. Bürki,Roman Bürki,28,1990-11-14,187,85,Switzerland,Borussia Dortmund,85,86,32000000,92000
+192505,R. Lukaku,Romelu Lukaku,26,1993-05-13,190,94,Belgium,Inter,85,86,46000000,115000
+192774,K. Manolas,Kostas Manolas,28,1991-06-14,189,83,Greece,Napoli,85,86,37500000,105000
+194404,Neto,Norberto Murara Neto,29,1989-07-19,190,84,Brazil,FC Barcelona,85,86,31000000,175000
+197445,D. Alaba,David Olatukunbo Alaba,27,1992-06-24,180,78,Austria,FC Bayern München,85,86,38000000,135000
+201399,M. Icardi,Mauro Emanuel Icardi Rivero,26,1993-02-19,181,75,Argentina,Inter,85,86,46000000,115000
+204963,Carvajal,Daniel Carvajal Ramos,27,1992-01-11,173,73,Spain,Real Madrid,85,86,38000000,205000
+208670,H. Ziyech,Hakim Ziyech,26,1993-03-19,181,65,Morocco,Ajax,85,86,45000000,39000
+41236,Z. Ibrahimović,Zlatan Ibrahimović,37,1981-10-03,195,95,Sweden,LA Galaxy,85,85,14000000,15000
+143076,A. Gómez,Alejandro Darío Gómez,31,1988-02-15,165,68,Argentina,Atalanta,85,85,34000000,92000
+167664,G. Higuaín,Gonzalo Gerardo Higuaín,31,1987-12-10,186,89,Argentina,Juventus,85,85,34500000,175000
